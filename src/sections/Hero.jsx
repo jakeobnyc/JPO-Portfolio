@@ -14,16 +14,16 @@ export default function Hero() {
           Shaping performance and presence through sound — for film, television, and everything in between.
         </p>
         <div className={styles.actions}>
-          <a href="#projects" className={styles.btnPrimary}>
+          <a href="#projects" className={styles.btnSecondary}>
             View Credits
           </a>
           <a
             href={IMDB_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className={styles.btnSecondary}
+            className={styles.btnPrimary}
           >
-            IMDb Profile ↗
+            IMDb Profile
           </a>
         </div>
       </div>

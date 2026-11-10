@@ -22,6 +22,12 @@ const upcoming = [
     type: 'Feature Film',
     description: 'Dir. Nicole Kassell · Netflix',
   },
+  {
+    title: 'Hello Darkness',
+    role: 'Dialogue Editor',
+    type: 'Feature Film',
+    description: 'Dir. Tony Goldwyn',
+  },
 ]
 
 const released = [
