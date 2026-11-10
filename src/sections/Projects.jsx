@@ -12,18 +12,21 @@ const upcoming = [
   },
   {
     title: 'Ruby',
+    year: '2027',
     role: 'Supervising Sound Editor',
     type: 'Feature Film',
     description: 'Dir. Max Bogen',
   },
   {
     title: "The 99'ers",
+    year: '2027',
     role: 'Dialogue Editor / Assistant Sound Editor',
     type: 'Feature Film',
     description: 'Dir. Nicole Kassell · Netflix',
   },
   {
     title: 'Hello Darkness',
+    year: '2027',
     role: 'Dialogue Editor',
     type: 'Feature Film',
     description: 'Dir. Tony Goldwyn',
